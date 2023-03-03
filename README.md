@@ -6,5 +6,5 @@
 
 Para rodar esse projeto execute o seguinte codigo:
 ```
-node app.js
+node app.js .
 ```
